@@ -20,5 +20,5 @@ You can access the app [here](https://qfj3k6irek4wgytfuq8wek.streamlit.app/)
 - The Iris dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
 - https://www.youtube.com/watch?v=8M20LyCZDOY&list=PLtqF5YXg7GLmCvTswG32NqQypOuYkPRUE&index=2
 - https://github.com/dataprofessor/code/blob/master/streamlit/part2/iris-ml-app.py
-- https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/Create_streamlit_app.ipynb#scrollTo=IFvZnzS4vr88 for ngrok
+- https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/Create_streamlit_app.ipynb#scrollTo=IFvZnzS4vr88
 
